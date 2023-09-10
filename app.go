@@ -47,7 +47,7 @@ func main() {
   
   
   fmt.Println("escuchanfo....")
-  app.Run(":5173")
+  app.Run(":3000")
 }
 
 
